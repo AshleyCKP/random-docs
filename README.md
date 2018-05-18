@@ -2,7 +2,7 @@
 ## Products
 
 
-/# | item | weight | cost | shop
+\# | item | weight | cost | shop
 ------------ | ------------ | ------------- | ------------- | -------------
 1 | Almonds | 1kg | 340000 | nuts people
 2 | Apple | 1kg | 40000 | koto woman
