@@ -56,7 +56,7 @@
 ### Kim Chi 
 
 #### small - 74000
-# | item | weight (420g) | cost (29500)
+\# | item | weight (420g) | cost (29500)
 ------------ | ------------ | ------------- | -------------
 1 | penne | 200g | 7500
 2 | watercress | 25g  | 2000 ??
@@ -67,7 +67,7 @@
 7 | yogurt dressing | 25g | 5000
 
 #### big - 125000
-# | item | weight (630g) | cost (50000)
+\# | item | weight (630g) | cost (50000)
 ------------ | ------------ | ------------- | -------------
 
 1 | penne | 300g | 10800
@@ -83,7 +83,7 @@
 ### Chicken cezar  
 
 #### small - 68750
-# | item | weight (250g) | cost (27500)
+\# | item | weight (250g) | cost (27500)
 ------------ | ------------ | ------------- | -------------
 1 | lettuce | 120g | 5000
 2 | chicken | 80g  | 6000
@@ -92,7 +92,7 @@
 5 | cezar dressing | 25g | 5000
 
 #### big - 105000
-# | item | weight (400g) | cost (42000)
+\# | item | weight (400g) | cost (42000)
 ------------ | ------------ | ------------- | -------------
 1 | lettuce | 200g | 9000
 2 | chicken | 120g  | 7500
@@ -103,7 +103,7 @@
 ### Beat it! 
 
 #### small - 70000
-# | item | weight (320g) | cost (28000)
+\# | item | weight (320g) | cost (28000)
 ------------ | ------------ | ------------- | -------------
 1 | baby spinach | 120g | 3600
 2 | beat | 80g | 3500 ??
@@ -112,7 +112,7 @@
 5 | honey mustard dressing | 25g | 5000 
 
 #### big - 1150000
-# | item | weight (505g) | cost (46000)
+\# | item | weight (505g) | cost (46000)
 ------------ | ------------ | ------------- | -------------
 1 | baby spinach | 200g | 6000
 2 | beat | 120g | 5000 ??
@@ -124,7 +124,7 @@
 ### South tofu
 
 #### small - 71500
-# | item | weight (375g) | cost (28500)
+\# | item | weight (375g) | cost (28500)
 ------------ | ------------ | ------------- | -------------
 1 | Romaine lettuce | 120g | 5000
 2 | Marinated tofu | 80g | 3000 ??
@@ -136,7 +136,7 @@
 8 | coriander / lime dressing | 25g | 5000
 
 #### big - 109000
-# | item | weight (375g) | cost (43500)
+\# | item | weight (375g) | cost (43500)
 ------------ | ------------ | ------------- | -------------
 1 | Romaine lettuce | 200g | 7000
 2 | Marinated tofu | 120g | 5000 ?? 
@@ -153,7 +153,7 @@
 ## Toppings
 
 
-# | item | weight | cost | cost*2.5 | price
+\# | item | weight | cost | cost*2.5 | price
 ------------ |------------ | ------------- | ------------- | ------------- | ------------- 
 1 | Mushrooms | 40g | 700 | 1750 | 2000
 2 | Papaya | 40g | 400 | 1000 | 2000
